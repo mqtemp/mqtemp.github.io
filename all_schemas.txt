@@ -1,3 +1,4 @@
+---
 http://schema.org/DataType
 http://schema.org/Boolean
 http://schema.org/Date
@@ -8,6 +9,7 @@ http://schema.org/Integer
 http://schema.org/Text
 http://schema.org/URL
 http://schema.org/Time
+---
 http://schema.org/Thing
 http://schema.org/Action
 http://schema.org/AchieveAction
